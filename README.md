@@ -1,5 +1,5 @@
 # Hi👋 I'm Javed Khan 💫:
-Hi👋 I'm Javed Khan <br>This is me Javed , a second year Computer Science undergraduate from Lovely Professional University, India.<br>Aspiring Data Structures and Data Science Enthusiast.<br> 🧗Climbing the Coding Ladder and Tech Enthusiast.<br>👨‍💻 I’m currently working on Java and Python DS project.<br>📚 I’m looking to collaborate on any projects.<br>⚡Empowering web developers and Tech Tools.
+<br>This is me Javed , a second year Computer Science undergraduate from Lovely Professional University, India.<br>Aspiring Data Structures and Data Science Enthusiast.<br> 🧗Climbing the Coding Ladder and Tech Enthusiast.<br>👨‍💻 I’m currently working on Java and Python DS project.<br>📚 I’m looking to collaborate on any projects.<br>⚡Empowering web developers and Tech Tools.
 
 
 ## 🌐 Socials:
