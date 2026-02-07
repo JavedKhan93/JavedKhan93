@@ -1,38 +1,32 @@
 # Hi👋 I'm Javed Khan 💫:
 <br>This is me Javed , a Computer Science undergraduate from Lovely Professional University, India.<br>Aspiring Data Structures and Data Science Enthusiast.<br> 🧗Climbing the Coding Ladder and Tech Enthusiast.<br>👨‍💻 I’m currently working on Java and Python DS project.<br>📚 I’m looking to collaborate on any projects.<br>⚡Empowering web developers and Tech Tools.
 
-## 📱 Social & Contact
+## 🌐 Social & Contact
 
-<p align="center">
+<p align="left">
+  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:javedahmed58725@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/javed-ahmed-khan/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-<a href="https://twitter.com/khanjaved004">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://leetcode.com/u/javedahmed58725/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/javedahmed58725/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
-<a href="https://www.youtube.com/@javedahmed-u3v">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://medium.com/@Javedahmed">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" height="45"/>
-</a>
+  <a href="https://www.youtube.com/@YOUR_CHANNEL_NAME" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 
 </p>
 
