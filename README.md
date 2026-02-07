@@ -4,28 +4,36 @@
 ## 📱 Social & Contact
 
 <p align="center">
+  <a href="mailto:javedahmed58725@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:javedahmed58725@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/javed-ahmed-khan/">
+    <img src="https://cdn.simpleicons.org/linkedin" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/javed-ahmed-khan/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://twitter.com/khanjaved004">
+    <img src="https://cdn.simpleicons.org/twitter" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/khanjaved004">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
+  <a href="https://leetcode.com/u/javedahmed58725/">
+    <img src="https://cdn.simpleicons.org/leetcode" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/javedahmed58725/">
-  <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-</a>
+  <a href="https://www.youtube.com/@javedahmed-u3v">
+    <img src="https://cdn.simpleicons.org/youtube" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.youtube.com/@javedahmed-u3v">
-  <img src="https://skillicons.dev/icons?i=youtube" height="45"/>
-</a>
-
+  <a href="https://medium.com/@Javedahmed">
+    <img src="https://cdn.simpleicons.org/medium" height="48" />
+  </a>
 </p>
+
 
 
 
